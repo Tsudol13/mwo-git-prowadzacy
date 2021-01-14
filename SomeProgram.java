@@ -15,4 +15,8 @@ public class SomeProgram {
 	public void Search() {
 		// TODO implement
 	}
+
+	public void destroy() {
+		// TODO implement
+	}
 }
