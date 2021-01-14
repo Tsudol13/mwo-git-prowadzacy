@@ -17,6 +17,6 @@ public class SomeProgram {
 	}
 
 	public void destroy() {
-		// TODO implement
+		System.terminator.launch(withSayHalo());
 	}
 }
